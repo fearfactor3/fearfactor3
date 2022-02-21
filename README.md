@@ -6,8 +6,8 @@
 
 - I'm a military brat.
 - I consider my home base to be Columbia, SC and Hampton, VA
-- I started my tech career as a Database Engineer & then switched to becoming a SRE/DevOps Engineer. 👩🏾‍💻
-- I speak English, German, and Dutch (kind of...). 🎙
+- I started my tech career as a Database Engineer & then switched to become a SRE/DevOps Engineer. 👩🏾‍💻
+- I speak English, German (not good...), and Dutch (also not good...).
 - I played the saxophone(alto and tenor) and french horn. 🎹
 
 ## Get To Know Me @ Work:
