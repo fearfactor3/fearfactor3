@@ -1,19 +1,18 @@
 # If you found my Github profile...I'm sorry!  I'm kidding! :stuck_out_tongue_winking_eye:
 
-- :computer: I work as a DevOps/Reliability Engineering
+- :computer: Working as a DevOps/Reliability Engineering pays my bills and allows me to keep my habits up.
 - I'm a military brat.
-- I'm a native of Newport News, VA and Orangeburg, SC
-- I speak English, German(not good...), and Dutch(also not good...) but I do/want to practice speaking them.
-- Loves learning about geography(anthropology too) of the countries in the world.
+- I'm a native of Newport News, VA and Orangeburg, SC.
+- I speak English, German(I sound like a child learning to say "mama"), and Dutch(this is also craptacular at best...) but I do/want to practice speaking them.
+- Loves learning about the geography of the countries in the world.
 - Likes learning about sociocultural anthropology(mainly human migration).
 - I play the saxophone(alto and tenor) and french horn. 🎹
 - My music taste can be best described as eclectic.
 - When I say I love video games, I mean I LOVEEEEEEEEEE VIDEO GAMES!<br>
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</br>
-
-- I love soccer/football, American football(College & Professional)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+- OBSESSED with soccer/football and American football(College & Professional)
 
 # Get To Know Me @ Work:
 
