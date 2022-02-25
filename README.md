@@ -1,4 +1,4 @@
-# Willkomen zum meine Spot!
+# If you found my Github profile...I'm sorry!  I'm kidding! :stuck_out_tongue_winking_eye:
 
 - :computer: I work as a DevOps/Reliability Engineering
 - I'm a military brat.
