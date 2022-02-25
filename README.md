@@ -1,35 +1,36 @@
-<h4 align="center">
-    I'm a Site Reliability Engineer.✨
-</h4>
+# Willkomen zum meine Spot!
 
-## Get To Know Me:
-
+- :computer: I work as a DevOps/Reliability Engineering
 - I'm a military brat.
-- I consider my home base to be Columbia, SC and Hampton, VA
-- I started my tech career as a Database Engineer & then switched to become a SRE/DevOps Engineer. 👩🏾‍💻
-- I speak English, German (not good...), and Dutch (also not good...).
-- I played the saxophone(alto and tenor) and french horn. 🎹
-
+- I'm a native of Newport News, VA and Orangeburg, SC
+- I speak English, German(not good...), and Dutch(also not good...) but I do/want to practice speaking them.
+- Loves learning about geography(anthropology too) of the countries in the world.
+- Likes learning about sociocultural anthropology(mainly human migration).
+- I play the saxophone(alto and tenor) and french horn. 🎹
+- My music taste can be best described as eclectic.
+- When I say I love video games, I mean I LOVEEEEEEEEEE VIDEO GAMES!<br>
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</br>
 
+- I love soccer/football, American football(College & Professional)
 
-## Get To Know Me @ Work:
+# Get To Know Me @ Work:
 
 ## I’m currently learning ...
+    - Platform Engineering
+    - Production Engineering
+    - Site Reliability Engineering
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+## I'm interesting in learning more about...
+    - Chaos Engineering
+    - DevSecOps
+    - InfoSec
+    - Reliability Engineering
 ## My Technical Skills: 
 
 CI
@@ -92,5 +93,5 @@ Version Control
 ### How To Find Me:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/wamajor3-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/wamajor3-%231DA1F2.svg?link=https://twitter.com/wamajor3&style=for-the-badge&logo=Twitter&logoColor=white)
 
