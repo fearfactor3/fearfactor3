@@ -1,14 +1,14 @@
-# If you found my Github profile...I'm sorry!  I'm kidding! :stuck_out_tongue_winking_eye:
+# If you found my Github profile and interested in knowing more about me. Welkom!
 
-- :computer: Working as a DevOps/Reliability Engineering pays my bills and allows me to keep my habits up.
+- :computer: Working as a Reliability Engineering pays the bills and allows me to enjoy my habits.
 - I'm a military brat.
-- I'm a native of Newport News, VA and Orangeburg, SC.
-- I speak English, German(I sound like a child learning to say "mama"), and Dutch(this is also craptacular at best...) but I do/want to practice speaking them.
-- Loves learning about the geography of the countries in the world.
-- Likes learning about sociocultural anthropology(mainly human migration).
-- I play the saxophone(alto and tenor) and french horn. 🎹 :musical_note: :saxophone: 
-- My music taste can be best described as eclectic.
-- When I say I love video games, I mean I LOVEEEEEEEEEE VIDEO GAMES! :video_game:
+- Native of Newport News, VA and Orangeburg, SC.
+- Speak English, German, and Dutch.  My German and Dutch are craptacular at best.  I want to get better at speaking them so please chat with me in those languages.
+- Loves learning about the geography of different countries in the world.
+- Loves learning about sociocultural anthropology(mainly human migration).
+- Plays the saxophone(alto and tenor) and french horn. 🎹 :musical_note: :saxophone: 
+- Personal music taste can be best described as eclectic.
+- LOVES GAMING
 
 <div style="padding-left: 30px;">
 
@@ -18,24 +18,16 @@
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 </div>
 
-- OBSESSED with soccer/football :soccer: and American football(College & Professional) :football:
+- OBSESSED with football :soccer: and American football(College & Pros) :football:
 
 # Get To Know Me @ Work:
 
-I’m currently learning ...
+I’m currently learning:
 - Platform Engineering
 - Production Engineering
 - Site Reliability Engineering
 
-<div style="padding-left: 30px;">
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
-I'm interesting in learning more about...
+I'm interesting in learning:
 - Chaos Engineering
 - DevSecOps
 - InfoSec
@@ -62,13 +54,13 @@ I'm interesting in learning more about...
 
 - Hosting/SaaS
 
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - IDEs
 
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - Languages
@@ -93,7 +85,9 @@ I'm interesting in learning more about...
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 ![Gradle](https://img.shields.io/static/v1?style=for-the-badge&message=Gradle&color=02303A&logo=Gradle&logoColor=FFFFFF&label=)
+![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
@@ -110,7 +104,6 @@ I'm interesting in learning more about...
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
 </div>
 
 # How To Find Me:
