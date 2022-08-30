@@ -1,10 +1,10 @@
-# If you found my Github profile and interested in knowing more about me. Welkom!
+# If you found my Github profile and interested in knowing more about me.  Willkommen!
 
-- :computer: Working as a Reliability Engineering pays the bills and allows me to enjoy my habits.
+- :computer: Working as a Cloud Reliability Engineering pays the bills and allows me to enjoy my habits.
 - I'm a military brat.
 - Native of Newport News, VA and Orangeburg, SC.
-- Speak English, German, and Dutch.  My German and Dutch are craptacular at best.  I want to get better at speaking them so please chat with me in those languages.
-- Loves learning about the geography of different countries in the world.
+- Speak English, German, and Dutch.  My German and Dutch are craptacular at best.  I want to get better at speaking them.  So encourage me to speak in them. 
+- Loves learning about the geography of different countries in the world. 
 - Loves learning about sociocultural anthropology(mainly human migration).
 - Plays the saxophone(alto and tenor) and french horn. 🎹 :musical_note: :saxophone: 
 - Personal music taste can be best described as eclectic.
@@ -23,15 +23,11 @@
 # Get To Know Me @ Work:
 
 I’m currently learning:
-- Platform Engineering
-- Production Engineering
 - Site Reliability Engineering
 
 I'm interesting in learning:
 - Chaos Engineering
 - DevSecOps
-- InfoSec
-- Reliability Engineering
 
 ## My Technical Skills: 
 
