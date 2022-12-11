@@ -1,6 +1,6 @@
 # If you found my Github profile, sit back, relax and grab a beer or two or three. :-P
 
-- :computer: Working as a Reliability Engineering pays the bills and allows me to enjoy my habits.
+- :computer: Working as a Cloud Reliability Engineering pays the bills and allows me to enjoy my habits.
 - I'm a military brat.
 - Native of Newport News, VA and Orangeburg, SC.
 - Speak English, German, and Dutch.  My German and Dutch are craptacular at best.  I want to get better at speaking them so please chat with me in those languages.
