@@ -1,9 +1,9 @@
 # If you found my Github profile, sit back, relax and grab a beer or two or three. :-P
 
-- :computer: Working as a Cloud Reliability Engineering pays the bills and allows me to enjoy my habits.
+- :computer: Working as a Sr. Cloud Reliability Engineering pays the bills and allows me to enjoy my habits.
 - I'm a military brat.
 - Native of Newport News, VA and Orangeburg, SC.
-- Speak English, German, and Dutch.  My German and Dutch are craptacular at best.  I want to get better at speaking them so please chat with me in those languages.
+- I'm a native English speaker.  I can speak German and Dutch at an A2 level(At least, that's what I tell myself.  :-p).
 - Loves learning about the geography of different countries in the world.
 - Loves learning about sociocultural anthropology in layman's terms human migration.
 - Plays the saxophone(alto and tenor) and french horn. 🎹 :musical_note: :saxophone:
@@ -26,7 +26,6 @@ I’m currently learning:
 
 I'm interesting in learning:
 
-- Chaos Engineering
 - DevSecOps
 - InfoSec
 
@@ -89,7 +88,7 @@ I'm interesting in learning:
     ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-    ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
+    ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
     ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
     ![NuGet](https://img.shields.io/static/v1?style=for-the-badge&message=NuGet&color=004880&logo=NuGet&logoColor=FFFFFF&label=)
     ![OWASP](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP&color=000000&logo=OWASP&logoColor=FFFFFF&label=)
@@ -97,6 +96,9 @@ I'm interesting in learning:
     ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
     ![SonarQube](https://img.shields.io/static/v1?style=for-the-badge&message=SonarQube&color=4E9BCD&logo=SonarQube&logoColor=FFFFFF&label=)
 
+- Security Platform
+    ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+    
 - Version Control
 
     ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
