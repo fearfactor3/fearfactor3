@@ -96,7 +96,7 @@ I'm interesting in learning:
     ![SonarQube](https://img.shields.io/static/v1?style=for-the-badge&message=SonarQube&color=4E9BCD&logo=SonarQube&logoColor=FFFFFF&label=)
 
 - Security Platform
-- 
+
     ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
 - Version Control
