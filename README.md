@@ -37,6 +37,7 @@ I'm interesting in learning:
     ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
 - CD
+
     ![Argo](https://img.shields.io/badge/Argo-EF7B4D?logo=argo&logoColor=fff&style=for-the-badge)
     ![GoCD](https://img.shields.io/static/v1?style=for-the-badge&message=GoCD&color=94399E&logo=GoCD&logoColor=FFFFFF&label=)
 
@@ -95,6 +96,7 @@ I'm interesting in learning:
     ![SonarQube](https://img.shields.io/static/v1?style=for-the-badge&message=SonarQube&color=4E9BCD&logo=SonarQube&logoColor=FFFFFF&label=)
 
 - Security Platform
+- 
     ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
 - Version Control
