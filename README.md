@@ -31,7 +31,7 @@ I'm Wayne 👋 a passionate DevOps engineer from the United States with a backgr
 
 ### Education 🎓
 
-- [South Carolina State University](https://www.scsu.edu) (2001 - 2005)
+- [South Carolina State University](https://www.scsu.edu)
 
 ### Languages 🌐
 
