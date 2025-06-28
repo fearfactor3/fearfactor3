@@ -1,6 +1,22 @@
-# Wayne Major - DevOps Engineer
+# 😏 Wayne’s Delightfully Observant DevOps Intro
 
-I'm Wayne 👋 a passionate DevOps engineer from the United States with a background in cloud technologies, automation, and a strong interest in security. I enjoy building scalable, resilient, and secure systems that empower teams to deliver software faster and more efficiently while adhering to best practices.
+Professional Cloud Tamer ☁️ | YAML Life Coach | Defender of Uptime (and Sanity)
+
+I enthusiastically automate things so humans don’t have to because if I’ve learned one thing, it’s that humans and production environments should rarely interact.
+
+## What I bring to the table
+
+✅ Scalable systems because "just reboot it" isn’t a long term strategy.
+✅ Impeccable security passwords like "admin123" technically work, but so does leaving your car running in a parking lot.
+✅ CI/CD pipelines because manual deployments are just hard mode for no reason.
+
+### Open to roles where
+
+- "Move fast and break things" isn’t the company motto (unless it’s followed by "...and Wayne fixes it").
+
+- The phrase "It’s a DevOps issue" is met with data, not existential dread.
+
+- Let’s build something almost as resilient as my patience for unsolicited SSH attempts.
 
 <details>
 <summary>More stuff about me</summary>
