@@ -10,12 +10,10 @@ I enthusiastically automate things so humans don’t have to because if I’ve l
 ✅ Impeccable security passwords like "admin123" technically work, but so does leaving your car running in a parking lot.
 ✅ CI/CD pipelines because manual deployments are just hard mode for no reason.
 
-### Open to roles where
+## Open to roles where
 
 - "Move fast and break things" isn’t the company motto (unless it’s followed by "...and Wayne fixes it").
-
 - The phrase "It’s a DevOps issue" is met with data, not existential dread.
-
 - Let’s build something almost as resilient as my patience for unsolicited SSH attempts.
 
 <details>
