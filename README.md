@@ -6,9 +6,9 @@ I enthusiastically automate things so humans don’t have to because if I’ve l
 
 ## What I bring to the table
 
-✅ Scalable systems because "just reboot it" isn’t a long term strategy.
-✅ Impeccable security passwords like "admin123" technically work, but so does leaving your car running in a parking lot.
-✅ CI/CD pipelines because manual deployments are just hard mode for no reason.
+- ✅ Scalable systems because "just reboot it" isn’t a long term strategy.
+- ✅ Impeccable security passwords like "admin123" technically work, but so does leaving your car running in a parking lot.
+- ✅ CI/CD pipelines because manual deployments are just hard mode for no reason.
 
 ## Open to roles where
 
