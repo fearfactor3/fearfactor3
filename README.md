@@ -2,19 +2,19 @@
 
 Professional Cloud Tamer ☁️ | YAML Life Coach | Defender of Uptime (and Sanity)
 
-I enthusiastically automate things so humans don't have to — because if I've learned one thing, it's that humans and production environments should rarely interact.
+I automate things so humans don't have to. If I've learned one thing, it's that humans and production environments should rarely interact.
 
 ## What I bring to the table
 
-- ✅ **Scalable systems** — "just reboot it" isn't a long-term strategy. (60% faster provisioning, 50% lower MTTR, actual proof.)
-- ✅ **Security that isn't an afterthought** — Trivy, Grype, Gitleaks, and Snyk in the pipeline before anything ships. 40% faster vulnerability remediation.
-- ✅ **CI/CD pipelines** — because manual deployments are just hard mode for no reason. 2,000+ SLOs built, 99.9% pipeline uptime maintained.
+- ✅ Scalable systems — "just reboot it" stopped being a strategy around the third 3am page. (60% faster provisioning, 50% lower MTTR, receipts available.)
+- ✅ Security before it becomes someone's problem — Trivy, Grype, Gitleaks, and Snyk baked into the pipeline, not bolted on after the breach. 40% faster remediation.
+- ✅ CI/CD that developers actually use — 2,000+ SLOs, 99.9% pipeline uptime. Manual deployments are just hard mode with more blame.
 
 ## Open to roles where
 
-- Developers ship with confidence instead of dread — because the platform gets out of their way.
+- The infra team exists to make developers faster, not to guard the gate.
 - "Move fast and break things" isn't the company motto (unless it's followed by "...and Wayne fixes it").
-- The phrase "It's a DevOps issue" is met with data, not existential dread.
+- "It's a DevOps issue" gets a runbook, not a shrug.
 - Let's build something almost as resilient as my patience for unsolicited SSH attempts.
 
 ---
@@ -89,7 +89,7 @@ I enthusiastically automate things so humans don't have to — because if I've l
 
 - Golang
 - TypeScript
-- Concepts in DevSecOps, Platform Engineering, and Site Reliability to further my skill set
+- DevSecOps, Platform Engineering, SRE — wherever the interesting problems are going
 
 ---
 
