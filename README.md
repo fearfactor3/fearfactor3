@@ -92,6 +92,7 @@ Happily keeping the lights on at Havoc AI. That said, I'm open to a conversation
 ## What I'm currently learning 📚
 
 - TypeScript
+- Compliance frameworks — FedRAMP, NIST 800-53, and the rest of the alphabet soup
 - DevSecOps, Platform Engineering, SRE — wherever the interesting problems are going
 
 ---
