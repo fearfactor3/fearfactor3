@@ -10,7 +10,9 @@ I automate things so humans don't have to. If I've learned one thing, it's that 
 - ✅ Security before it becomes someone's problem — Trivy, Grype, Gitleaks, and Snyk baked into the pipeline, not bolted on after the breach. 40% faster remediation.
 - ✅ CI/CD that developers actually use — 2,000+ SLOs, 99.9% pipeline uptime. Manual deployments are just hard mode with more blame.
 
-## Open to roles where
+## Not looking, but always listening 👂
+
+Happily keeping the lights on at Havoc AI. That said, I'm open to a conversation about relocating for roles based in the EU (the German and Dutch lessons aren't just for ordering coffee), especially where:
 
 - The infra team exists to make developers faster, not to guard the gate.
 - "Move fast and break things" isn't the company motto (unless it's followed by "...and Wayne fixes it").
@@ -55,7 +57,8 @@ I automate things so humans don't have to. If I've learned one thing, it's that 
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logoColor=white)
 
-**Scripting**
+**Programming & Scripting**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -64,6 +67,7 @@ I automate things so humans don't have to. If I've learned one thing, it's that 
 
 | Job Position | Company | Work Period |
 | --- | --- | --- |
+| Sr. DevOps Engineer | Havoc AI | 2026-08 — Present |
 | Sr. DevOps / Cloud Reliability Engineer | OutSystems | 2023-04 — 2025-02 |
 | Cloud Reliability Engineer | OutSystems | 2021-09 — 2023-04 |
 | Sr. DevOps Engineer | Global Payments Integrated | 2020-02 — 2021-09 |
@@ -87,7 +91,6 @@ I automate things so humans don't have to. If I've learned one thing, it's that 
 
 ## What I'm currently learning 📚
 
-- Golang
 - TypeScript
 - DevSecOps, Platform Engineering, SRE — wherever the interesting problems are going
 
